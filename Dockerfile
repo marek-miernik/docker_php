@@ -1,4 +1,4 @@
-FROM php:7.4.16-cli
+FROM php:8.0.3-cli
 
 MAINTAINER Marek Miernik <miernik.marek@gmail.com>
 
